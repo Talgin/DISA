@@ -1,0 +1,2 @@
+If you have Python, you can skip 1 and 2 parts. If you have pip installed you can also skip 3rd part. 
+https://www.digitalocean.com/community/tutorials/how-to-install-python-3-and-set-up-a-programming-environment-on-ubuntu-18-04-quickstart
